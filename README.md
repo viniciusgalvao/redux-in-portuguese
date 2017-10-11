@@ -2,7 +2,7 @@
 
 Redux é um container de estados previsíveis para aplicações Javascript.
 
-Ajuda a escrever aplicações que se comportam de forma consistente, rodando em diferentes ambientes(cliente, servidor e nativo), e é fácil para testar. Acima disso, Redux provê uma excelente experiência para o desenvolvedor, tal qual [edição ao vivo juntamento com um degugger que viaja/anda no tempo](https://github.com/gaearon/redux-devtools).
+Ajuda a escrever aplicações que se comportam de forma consistente, rodando em diferentes ambientes(cliente, servidor e nativo), e é fácil para testar. Acima disso, Redux provê uma excelente experiência para o desenvolvedor, tal qual [edição ao vivo juntamento com um debugger que viaja/anda no tempo](https://github.com/gaearon/redux-devtools).
 
 Você pode utilizar Redux juntamente com [React](https://facebook.github.io/react/), ou com qualquer outra biblioteca de view.
 
